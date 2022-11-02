@@ -17,6 +17,6 @@ It has been chosen a ver simplistic architecture to solve the challenge. As it w
   * ```.mode csv```
   * ```.import <csv_path/csv_file> <table>```
  
- 4. First row , of headers, deleted.
+ 4. First rows , of headers, were deleted.
 
 All the Questions were answered based on the loaded tables above.
