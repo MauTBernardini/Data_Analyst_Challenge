@@ -14,6 +14,9 @@ It has been chosen a ver simplistic architecture to solve the challenge. As it w
    * ```CREATE TABLE per_capita (country_code text, year integer, gdp_per_capita numeric)```
  3. CSV were inserted into tables.
   Imported through SQLiteStudio inteface or directly via sqlite3 commands:
-  * .mode csv
-  * .import <csv_path/csv_file> <table>
+  * ```.mode csv```
+  * ```.import <csv_path/csv_file> <table>```
+ 
  4. First row , of headers, deleted.
+
+All the Questions were answered based on the loaded tables above.
